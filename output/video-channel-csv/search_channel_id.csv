@@ -1,2 +1,299 @@
 ,title,description,publishedAt,videoId,liveBroadcastContent
-0,AWS: Creating IAM role for Lambda,"Welcome to the AWS Lambda tutorial with Python P3. In this tutorial, I have demonstrated on how to creating IAM or Execution role for Lambda function. Support ...",2018-01-07T08:42:11Z,T7cny-uyCuA,none
+0,Ciclone em Garopaba,Pôr do sol na praia da Ferrugem.,2020-07-02T02:14:24Z,1cpb7gcf3as,none
+1,De Foz do Iguaçu a Guaíra de Tornado 250,,2020-08-12T04:13:56Z,nWzV2pFr9Gs,none
+2,Role de Miranda a Campo Grande | Motocando #10,,2020-08-28T06:38:39Z,bh1o8mFWVPI,none
+3,De Pelotas a Santa Maria de Tornado 250,,2020-08-07T02:20:27Z,q7KPLrN7M0I,none
+4,Euvimarcos toca em Camboriú,,2020-06-14T03:33:23Z,58YuFaEF8F4,none
+5,"De Dourados a Bonito, MS",,2020-08-14T02:41:30Z,VBmO_hXGup4,none
+6,"América Latina #6 Casino Carnaval, Encarnación Paraguay. Missão jogar para recuperar o dinheiro do","América Latina #6 Casino Carnaval, Encarnación Paraguay. Missão jogar para recuperar o dinheiro do conserto do carro, ...",2022-09-25T17:26:11Z,f0Dc1iIQbVQ,none
+7,"Amanhecer, pousada Correa, Florianópolis",,2020-06-26T01:58:06Z,ZbUlIDP9iww,none
+8,Euvimarcos toca funiculi funicula,,2020-06-14T03:33:22Z,iNJrlauDIF8,none
+9,"Quase preso na Argentina, de São Miguel do Oeste a Dionísio Cerqueira de Tornado 250",,2020-08-09T21:50:10Z,_npxdq5a8FA,none
+10,"Por do sol na Serra Gaúcha, Gramado",,2020-07-07T05:02:38Z,KGbiujaNoPQ,none
+11,Transmissão ao vivo da minha #GoPro,,2023-07-13T08:08:18Z,Jr_xBcl5GOs,none
+12,"Adrenalive - Mototerapia Rolê de Tornado por Itapetininga, com cachorro Pirata pt4/4",,2023-09-18T10:13:27Z,mKL0sRDXED8,none
+13,Adrenalive - Mototerapia Ficou filé a reforma! 1/5,,2023-09-23T23:28:48Z,3HZYlCROmLQ,none
+14,Adrenalive - Mototerapia Pneu furado no dia dos pais... Vamos Longe da vida real,Meu role divertido virou um esforço pra andar com pneu murcho.,2023-08-15T09:07:09Z,HzM9IfeH0i8,none
+15,Adrenalive - Voltando do Shopping 1/2,,2023-09-24T01:01:17Z,xn3N5Kwi9Hg,none
+16,"Adrenalive - Mototerapia Rolê de Tornado por Itapetininga, com cachorro Pirata pt2/4",,2023-09-18T10:12:37Z,rJYskDyUfuE,none
+17,"Standup Trip Sorocaba, SP - Aula Experimental na Oficina da Comédia 9/9",,2023-09-27T00:00:12Z,IZb3pZrbRuM,none
+18,Adrenalive - Voltando do Shopping 2/2,,2023-09-24T01:30:31Z,svbaNxCwCSc,none
+19,"Adrenalive - Mototerapia Rolê de Tornado por Itapetininga, com cachorro Pirata pt1/4",,2023-09-18T10:12:11Z,gU4Z1xXlHyk,none
+20,Adrenalive - Mototerapia Ficou filé a reforma! 3/5,,2023-09-23T23:29:56Z,WZxxnl0diDA,none
+21,"Standup Trip Sorocaba, SP - Aula Experimental na Oficina da Comédia 8/9",,2023-09-26T23:00:32Z,ogsQHHMoRG8,none
+22,"Pôr do sol na Lagoa da Conceição, Florianópolis","Créditos Francisco Matelli Matulovic, entre em contato para imagens em HQ sem marca de água.",2020-06-25T00:23:59Z,2FdjkfMy-dE,none
+23,Ataque brutal do cachorro Pirata,,2022-09-14T21:07:09Z,spltwC0NSz8,none
+24,Chapadão do Céu - Cachoeira da Rapadura - Rio Verde,,2020-09-15T03:31:02Z,vE3IagwqkjM,none
+25,Efeitos da cerveja o buteco carioca na Lapa,cerveja ja ja ja #shorts.,2022-05-16T14:15:34Z,ZyHvjt--b7s,none
+26,"Paixão Nova: Motocross, Jalapão TO #shorts","apos um tempo, voltei.",2022-03-24T03:10:25Z,O_pKxHeRDYE,none
+27,"VamosLonge - 3 anos Viajando o Brasil e Uruguai de Tornado 250, parte 1",Vídeo resumo da primeira temporada de viagem de moto pelo Brasil e Uruguai.,2023-04-15T20:00:00Z,1c-53ExJcXw,none
+28,De Palmas à Ponte Alta de Tocantins de Tornado 250,,2020-10-21T21:25:20Z,w996umHDhHI,none
+29,Floripa 2 - Extra @diego_uruguaio,"Filmagens e edição por vamoslonge, local praia da Joaquina.",2020-06-20T13:35:20Z,w3Z2I6gWhzM,none
+30,"Garopaba - Terra de Areia, RS",,2020-07-02T04:34:11Z,lOJTApYUjUg,none
+31,Itajaí - Balneário Camboriú SC,Viagem trip.,2020-06-14T16:24:04Z,TU93IbiNbhI,none
+32,Dublagens Malditas 3 - Fábio Rabin Maconheiro,,2020-08-25T10:30:44Z,oitq43SI1Qg,none
+33,Será que venci o desafio da marreta??,,2022-09-20T02:13:03Z,F3I9KxUkrSQ,none
+34,Floripa 8 - Job,Após vários dias sem usar um computador hoje precisei finalizar um job. Muita gente nem sabe a verdadeira pessoa por trás ...,2020-06-26T01:22:47Z,Le8AnDVJ6F4,none
+35,Bonito - Balneário Municipal,,2020-08-16T21:22:12Z,_Z0YQF9ZWZU,none
+36,"Gramado, RS",Cheguei na serra gaúcha e quase congelei!!,2020-07-04T01:11:27Z,D1EejqYxrR8,none
+37,"Curtindo Morro de São Paulo, Bahia, 2020 | Destino #50",um lugar muito louco pra curtir muito.,2022-06-07T22:00:02Z,0aLYNu64F9c,none
+38,Balneário Camboriú - Bombinhas,"Visitei o Aquário, bondinho e Ziprider.",2020-06-16T01:52:19Z,0sjpl2VwzW8,none
+39,Floripa 2 - Sandboard,Surf de manhã e rolê de moto a tarde. Principalmente sandboard com as melhores filmagens!,2020-06-20T13:50:26Z,P9eL7-SicBk,none
+40,Floripa 6 - Daniela,"Surf na Joaquina, estréia do quadro Em Busca do Pôr do Sol Perfeito, no Balneário Daniela.",2020-06-24T04:59:25Z,vQJdmtu1lvg,none
+41,"Cachoeira da Roncadeira, Palmas TO",,2020-10-18T22:39:38Z,ydeLUNNSNJI,none
+42,Floripa 3 - Beach tennis,"Surf sem filmagens, fiquei em pé na funboard pela primeira vez mas meus braços caíram no fundo do mar... Aí fui filmar sábado ...",2020-06-21T16:50:24Z,Mu1KYgbvijU,none
+43,Floripa 7 - Lagoa da Conceição,E outras aventuras.,2020-06-25T01:23:29Z,YgFmow4TNRw,none
+44,Gramado - Parque Mini Mundo,,2020-07-06T03:01:27Z,Z-ibnmhRO80,none
+45,"De Santa Maria a Cruz Alta, estourou a corrente na estrada",,2020-08-08T13:09:46Z,YZk4McY5uGM,none
+46,"Bonito 11 - Gopro, Balneário, Live",,2020-08-27T07:38:42Z,IKRTtSwSJt4,none
+47,De São Miguel do Oeste a Foz do Iguaçu de Tornado 250,,2020-08-10T15:37:51Z,UgwahITRbCo,none
+48,Fábio Chapadin - Homenagem a Brasília (Raimundos Paródia),"Fizera pouco em te lo deixado todo quebrado desfigurado irreconhecível o Brasil Estão sem moral, criança com fome no natal ...",2020-10-14T00:29:20Z,AN1lk07s6gY,none
+49,"Pirenópolis - Cachoeira Santa Maria, Lázaro e Véu da Noiva",,2020-09-30T04:34:39Z,UIdG4o_9rfk,none
+50,"Gramado, RS - Esportes no Gelo",,2020-07-06T16:07:38Z,feFrctc5RbE,none
+51,Floripa 12 - Moto na Oficina,,2020-06-30T04:51:46Z,EBnQ455aHA0,none
+52,Bonito 2 - Carne de Jacaré é boa? Gopro voltou?,,2020-08-19T00:41:10Z,comII1HaJ7c,none
+53,Floripa 4 - Deu ruim!,"O que era pra ser o melhor vídeo do canal ficou pra próxima, sem vento e motor enguiçado! Dia de descanso, perdido em meio a ...",2020-06-22T07:50:57Z,Md59PZEbVSI,none
+54,Bombinhas - Floripa,Seguindo pelo litoral catarinense.,2020-06-18T04:09:03Z,q4BtQ6PGHwo,none
+55,Bonito 6 - Pizza da Aposta,,2020-08-20T19:17:00Z,HXXl0gzohkM,none
+56,Bonito 8 - Bebedeira Federal,,2020-08-24T06:10:50Z,9bpd-pNiQew,none
+57,"Pôr do sol em Balneário Daniela, Florianópolis","Créditos Francisco Matelli Matulovic, entre em contato para original.",2020-06-25T00:24:52Z,JYHyPmCuUu8,none
+58,"Bonito 4 - Chuva, Artesanato, Tapera, Espetinhos",,2020-08-20T09:41:50Z,R5txm4fIQ48,none
+59,Ponte do Lago de Palmas (extra),,2020-10-21T23:24:25Z,awEMo-rWMgo,none
+60,"Porto Alegre - Estádios, Parques e Orla",,2020-07-08T16:15:37Z,evPQcswX_LE,none
+61,Bonito 9 - Churrasquinho Despedida,,2020-08-25T12:00:22Z,cXPi2fOCHYY,none
+62,Extra - Surf em La Pedrera,,2020-08-05T18:31:10Z,XtrBPDTSM2I,none
+63,"Canela, RS - Museu da Moda",,2020-07-06T16:29:58Z,f9FNcfQkQ40,none
+64,Porto Alegre - Parque dos Moinhos (Parcão),,2020-07-14T23:56:47Z,lUJDaudpZ64,none
+65,São Francisco do Sul 4 - Surf &amp; Dunas,"Novo formato de edição sem cortes e sem música, o que acharam?",2020-06-12T03:59:21Z,-P7KObNsZ6Q,none
+66,Floripa 1 - Surf,E Mirante da lagoa.,2020-06-19T04:31:30Z,7jGYpbcP76E,none
+67,"Foz do Iguaço, PR 20 de setembro de 2022",,2022-09-20T03:04:45Z,8uNLMjhAzA4,none
+68,Floripa 5 - Alimentação saúde,Sem aventuras públicas hoje!!!,2020-06-23T17:02:44Z,geN2jY2p8kg,none
+69,Não poderia ser mais perrengue... Fundiu motor do carro de noite no meio do nada no Paraguai...,,2022-09-23T22:32:51Z,QKg85EEcWx8,none
+70,Floripa 9 - Santo Antônio de Lisboa,Inverno chegou e trouxe um clima bucólico.,2020-06-27T05:37:57Z,8da0ktXeWjM,none
+71,São Francisco do Sul 3 - Surf,"Com professor Mabel, valeu meu mano!!",2020-06-10T00:12:36Z,LBC3W4G2blI,none
+72,"De Bonito a Campo Grande, Tornado 250",,2020-08-28T06:43:13Z,s8CtNHmGgy8,none
+73,Gramado - Lago Negro - Porto Alegre,,2020-07-08T03:45:03Z,RSrLDy1tE9c,none
+74,São Francisco do Sul 3 - Surf em Casa,Aula técnica com professor Mabel e takes do Júlio.,2020-06-11T01:16:09Z,x5zjVYwRpEI,none
+75,Adrenalive - Mototerapia Borracharia sacana? Finalmente o pneu aguentou! Vamos longe da vida real,,2023-08-23T19:14:31Z,pKG1Bb7WxX4,none
+76,"Marcos toca Serenata Para Lua, Dedicado a minha mãe!",Homenagem a Sil!!,2020-06-14T02:41:54Z,F8V7CENCLRs,none
+77,Adrenalive - Mototerapia Ficou filé a reforma! 2/5,,2023-09-23T23:29:19Z,d_4qVFx6-Rw,none
+78,"Standup Trip Sorocaba, SP - Aula Experimental na Oficina da Comédia 2/9",,2023-09-26T17:45:00Z,4UsAU_QbNE0,none
+79,"Adrenalive - Mototerapia Rolê de Tornado por Itapetininga, com cachorro Pirata pt3/4",,2023-09-18T10:13:02Z,TUUKk5oxcs8,none
+80,Adrenalive - Mototerapia Ficou filé a reforma! 4/5,,2023-09-23T23:30:20Z,9RTQgzzwLdY,none
+81,"Standup Trip Sorocaba, SP - Aula Experimental na Oficina da Comédia 3/9",,2023-09-26T18:00:33Z,k6if5-xYRT4,none
+82,Euvimarcos toca pink floyd,,2020-06-14T03:32:48Z,3N1XPPlztBs,none
+83,Joinville - São Francisco do Sul 2 - Centro Histórico,Sou + São Eu.,2020-06-09T00:31:58Z,Ql8ys8hoxZU,none
+84,Euvimarcos toca maluco beleza,,2020-06-14T03:29:53Z,h274nYua4sU,none
+85,Shorts Reveja os Relatos Viajados da Argetina,7191934856207568134.,2023-01-23T19:48:42Z,QWuh8EEoECA,none
+86,"Pôr do Sol, praia ferrugem, Garopaba, SC (dia do ciclone)",,2020-07-07T05:20:10Z,cklSmB15Wtw,none
+87,Campo Grande - Morro do Ernesto,Created by InShot:https://inshotapp.com/share/youtube.html.,2020-09-06T22:34:21Z,HYqitZbV6qU,none
+88,"Shorts Curitiba, PR 2020","viagem de moto pelo Brasil, Curitiba #CapCut #curitiba #moto #vamoslonge #nomadedigital #turismo #viagemdemoto #mototrip ...",2023-02-10T16:51:43Z,H2DQYhCX8t8,none
+89,"Shorts São Paulo, Pandemia 2020",minha vida em São Paulo antes de viajar por 3 anos pelo Brasil e América Latina #moto #mototrip #viagemdemoto #turismo ...,2023-01-22T19:51:54Z,r2n2JXlxpV4,none
+90,"Adrenalive - De Ubatuba a São Luiz, ao vivo na Tornado","Para transmitir ao vivo pelo protocolo RTMP sem queda, usando 2 chips em 2 celulares com hotspot.",2022-06-06T06:46:43Z,I0y-vQBCxiw,none
+91,Shorts Ubatuba de Tornado em 2019,testando formatos de vídeos... gostou? #moto #tornado #mototrip #viagemdemoto #lobosolitario #lonelywolf #turismo ...,2023-01-16T21:58:11Z,xLxoibcyvzA,none
+92,"Atravessando a fronteira, ponte sobre rio Paraná, de Tornado 250",,2020-08-13T02:09:37Z,Tyzm2qqPCQQ,none
+93,Camila mergulha na praia de Sepultura,,2020-06-17T03:42:04Z,kWHVsUcWG8o,none
+94,"De Guaíra, PR, a Dourados, MS, de Tornado 250",,2020-08-13T03:53:58Z,8i-2aMMbnnc,none
+95,Barco Ancorado em São Chico,,2020-06-10T17:02:52Z,i1lh_atZA-w,none
+96,Adrenalive - Chegando em São Paulo de moto pela Dutra,"Para transmitir ao vivo pelo protocolo RTMP sem queda, usando 2 chips em 2 celulares com hotspot.",2022-06-07T12:15:38Z,uOUQUNuiYZg,none
+97,Adrenalive no ar - role de moto ao vivo!,Venha comigo na moto.,2022-06-10T17:21:28Z,-EXIqV1WkQ8,none
+98,Transmissão ao vivo da minha #GoPro,,2023-06-25T22:22:54Z,O9AnH4YUw00,none
+99,Bombinhas SC - 1,"Explorando praia da quatro ilhas, Lagoinha e Sepultura.",2020-06-17T03:09:37Z,ojqqHZpAW7Q,none
+100,Floripa 11 - Trilha da Costa da Lagoa,,2020-06-29T16:45:23Z,5QlKcpuwoZ8,none
+101,sk8 or die,,2020-10-28T22:52:56Z,I_uWDdddBX8,none
+102,Pirenópolis - Cachoeira Usina Velha,,2020-10-04T02:32:32Z,vs44cvPkN9E,none
+103,Adrenalive no ar - role de moto ao vivo!,Venha comigo na moto.,2022-06-11T07:07:45Z,9g6g0LzDdmw,none
+104,Apresentação do Vamoslonge,Canal de aventura sem rumo e muitas vezes sem sentido.,2020-06-09T17:25:57Z,jfUbpu04LEQ,none
+105,Adrenalive no ar - role de moto ao vivo!,Venha comigo na moto.,2022-06-13T03:11:50Z,n47XB5Iih50,none
+106,Adrenalive no ar - role de moto ao vivo!,Venha comigo na moto.,2022-07-03T05:17:46Z,2b3fU3VVSLo,none
+107,Adrenalive 3.0 Ubatuba,,2022-06-03T00:07:42Z,5siUlJeaufw,none
+108,De Campo Grande a Chapadão do Céu de Tornado 250,,2020-09-12T04:44:49Z,45GnxH8HaWU,none
+109,De Arraias à Palmas de Guincho,viva o alemão.,2020-10-18T22:28:49Z,7t-DL1Nfcg4,none
+110,"Parque manancial na cidade secreta de Hohenau, no Paraguai #shorts","Venha conhecer com a gente o parque manancial na cidade secreta de Hohenau, no Paraguai. #vamoslonge #paraguay.",2022-09-26T04:40:58Z,JZmXgdrKEYk,none
+111,Dublagens Malditas 4 - Sr Rolando Lero,,2020-08-27T14:30:17Z,BkVzY2RdC7I,none
+112,"Shorts Ubatuba de Tornado, primeira viagem de moto em 2019","primeira viagem de moto, vídeo com narração, ano novo Ubatuba 2019 #vamoslonge #motonomade #comosernomadadigital ...",2023-01-17T21:58:27Z,Y3-UyEWDZr8,none
+113,"Fábio Chapadin - Homenagem a Pirinópolis, GO (Paródia Zezé de C. E Luciano)","Viajando de moto pelo Brasil, passando por Pirenópolis GO fiz essa singela homenagem em frente a câmara dos vereadores.",2020-09-26T20:29:07Z,4rgtdN2n-Qo,none
+114,Bonito 3 - Sorvete Assado,,2020-08-19T20:45:05Z,VQmHcq5K1Tw,none
+115,Extra - Reforço do Chassi da Tornado 250,"ATENÇÃO NÃO É UM VÍDEO TUTORIAL, mas vou explicar os passos 1 - Tirou o banco 2 - Terminou de separar a parte ...",2020-09-09T03:07:48Z,MtfZ78pV-JI,none
+116,"Salvador - Farol da Barra, Elevador e Pelourinho de moto #motovlog #salvador #brazil","mais acarajé, karaokê, surf e venda de picolés com a minha grande amiga Gabi, tudo isso no Puleiro Hostel com os parças Caio ...",2022-04-20T14:17:22Z,jGaYBqwaoxo,none
+117,"De Goiânia a Pirenópolis, Goiás, de Tornado 250",,2020-09-25T09:32:04Z,AAtIEliOq1M,none
+118,Vida de Viajante por @euvimarcos,Filosofando no piano.,2020-06-14T03:17:27Z,8PSaKqrsce4,none
+119,"Campo Grande - 14 de julho, Camelódromo",,2020-09-03T02:57:29Z,uz5ZXgbU_zw,none
+120,Porto Alegre à Pelotas - Enchente no RS,,2020-07-15T19:02:47Z,4-Zc-D_7WK0,none
+121,Fábio Chapadin: Homenagem a Campo Grande (Munhoz e Mariano paródia),"A dupla nos tempo de início se apresentavam aqui para amigos como toiço e frango, por isso escolhi a música deles para base.",2020-08-29T20:48:32Z,Z-oFLpFju70,none
+122,De Cruz Alta a São Miguel do Oeste de Tornado 250,,2020-08-09T12:13:24Z,AL-uyOAXXKs,none
+123,A integração com o YouTube e criação de vídeos,A integração com o YouTube e criação de vídeos https://www.grupof.com.br/a-integracao-com-o-youtube-e-criacao-de-videos/ A ...,2017-04-25T03:37:52Z,1XpxzcjsJe4,none
+124,Dublagens Malditas 2 - Morto vivo,,2020-08-24T06:00:46Z,mO-oCjaHABQ,none
+125,Transmissão ao vivo da minha #GoPro,,2023-07-16T20:40:57Z,qMtUbF33mys,none
+126,Standup Trip - Escalada e show em Sorocaba! Vamoslonge  gravando de novo!,,2023-08-25T15:52:21Z,lEPbRWmY00o,none
+127,"RV #15 Bonito, MS - Sai com 2 cariocas e olha no que deu! Experimentei carne de jacaré!","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-08-19T20:15:51Z,PTWUVchgkaU,none
+128,Fui entrevistado em Brasília - Joy Hostel (inédita),"Fui entrevistado na minha passagem por Brasília, minha primeira entrevista como viajante, muito animado e solicito. Aguardei ...",2021-08-01T23:22:54Z,mdJ0IpgZktE,none
+129,"Praia do Prata - Palmas, TO (extra)",,2020-10-20T20:29:54Z,Wndk4K7n0TA,none
+130,Adrenalive Pedal - História da minha bike 1/6,,2023-09-25T03:54:39Z,LBEZlWz5Eac,none
+131,América Latina #6 casino no Paraguai,,2022-09-24T05:58:14Z,PPjL17y8F-A,none
+132,Adrenalive Pedal - História da minha bike 6/6,,2023-09-25T09:00:41Z,viA0khFGPUk,none
+133,"Standup Trip Sorocaba, SP - Aula Experimental na Oficina da Comédia 5/9",,2023-09-26T20:00:01Z,2n1uKfVVfPg,none
+134,Adrenalive Pedal - História da minha bike 5/6,,2023-09-25T08:00:30Z,dDyi1NjVxrQ,none
+135,Adrenalive - Pneu voltou furado da borracharia... Vamos Longe da Vida Real,Testando a camera e pra surpresa... pneu no chão... mais trabalhooooo.,2023-08-22T03:54:11Z,wD-2f-XY_kc,none
+136,Adrenalive Pedal - História da minha bike 3/6,,2023-09-25T06:00:10Z,ecqrkPZWik4,none
+137,Especial Jalapão,Primeiro especial do vamos longe.,2020-10-25T07:45:03Z,pwlrWTwM_1I,none
+138,Floripa 10 - Surf na Mole,,2020-06-28T05:48:25Z,igujPpuynSI,none
+139,Dublagens Malditas 1 - Carminha,,2020-08-24T06:00:10Z,8BMRjEo5w64,none
+140,"Cruzando a Bahia, de Barreiras a Itaberaba de Tornado 250",viagem de moto pelo Brasil #tornado250 #moto #brasil #bahia #viagemdemoto #viagem.,2022-04-18T04:33:04Z,A3No-fHtJUg,none
+141,RV #15 - Fiz novos e bons amigos,,2020-08-25T13:53:00Z,A-DwFIX8ONY,none
+142,Bonito 7 - Produção de Vídeos,chove e faz frio.,2020-08-24T02:22:28Z,ltT2-A4WRtk,none
+143,Extra - Moto do Marcos,,2020-08-09T15:20:51Z,9CFT0TkyS5M,none
+144,"Live - Recordando Itapetininga, SP 2020","Capítulo 2, chegada em Itapetininga e semente do vamoslonge #moto #vamoslonge #nomadedigital #turismo #viagemdemoto ...",2023-02-03T01:58:29Z,TFrwdATGBaA,none
+145,Extra - Explicando quase preso na Argentina,,2020-08-16T18:54:19Z,iHXqH_74wDY,none
+146,Em vez de cobrar pressa faça a diferença... #simpatia #bondade #emocao #licao #shorts,,2022-04-13T01:34:52Z,yXHtvj2huc8,none
+147,"Live - Recordando São Paulo, SP 2019","minha vida em São Paulo antes de viajar pelo Brasil e América Latina, não tinha ideia que ia existir vamoslonge #vamoslonge ...",2023-01-25T02:53:16Z,pwlYurxevto,none
+148,Porto Alegre à Pelotas - Enchente no RS,,2020-07-15T19:02:47Z,4-Zc-D_7WK0,none
+149,"Shorts Itapetininga, SP 2020 primeira parada na pandemia...  #motonomade #comosernomadadigital",primeira parada na pandemia... Itapetininga #motonomade #comosernomadadigital #traveling #twowheels #braziltourism ...,2023-01-27T01:52:58Z,h-zwRxUzNMI,none
+150,Campo Grande - Moto Tombou,"precisei subir de novo, com as imagens da oficina no fim Campo Grande não me deixou ir, veja no Relatos Viajados 19 porque ...",2020-09-08T18:48:38Z,wiaDnz7WtVY,none
+151,plantando surf!!! #shorts,,2022-06-02T16:35:59Z,Y_X6AxyU4jw,none
+152,Sorte ou Azar? - Moto quebrou em Taim,,2020-08-06T20:01:29Z,Fr6QcGwk6VU,none
+153,América Latina #2 - Ponta Grossa até Foz do Iguaçu,,2022-09-18T03:49:32Z,VlPNzW_7lqs,none
+154,"Role em Bonito, Tornado 250",,2020-08-24T16:34:05Z,YE8GHzV796U,none
+155,"Extra - Cheguei na Argentina, Tri fronteira",,2020-08-09T15:31:01Z,640u1QDZXac,none
+156,Wesley sobre aquário de Balneário Camboriú | Entrevistando Longe #2,"Como Jacaré, Tartarugas e Peixes convivem.",2020-06-16T01:13:24Z,IuvexG7pJf8,none
+157,"Campo Grande - 14 de julho, Camelódromo",,2020-09-03T02:57:29Z,uz5ZXgbU_zw,none
+158,Brasília - Parque da Cidade (extra),,2020-10-06T01:38:54Z,j4toWcif_zk,none
+159,"pôr do sol, parque redenção, Porto Alegre, RS",,2020-07-07T05:07:25Z,pexKKL_uUyA,none
+160,Live with Restream,Test.,2022-06-03T22:35:50Z,RIWEzRCbmpY,none
+161,Shorts previa do teaser viajando o Brasil e Uruguai de moto #motochileros #motomochil,previa do teaser da primeira temporada viajando o Brasil e Uruguai de moto #motochileros #motomochileros #motonomade ...,2023-03-16T18:55:24Z,k9LoYWzVpmg,none
+162,Vamoslonge visita Escadaria Selarón e conta um pouco da história #shorts,,2022-06-01T14:23:59Z,zxSF8hXWISY,none
+163,rugido e não sei o que #zueira #piada #humor #divertido,,2022-09-14T21:07:03Z,T6ZwiDPDLNU,none
+164,RV #3.5 Quase Morri Surfando na Mole,"Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-08-05T16:39:44Z,2vfwEVw1vrc,none
+165,Transmissão ao vivo da minha #GoPro,,2023-06-25T23:10:11Z,lV8ANCjpe5I,none
+166,Raul Sá conta história da Colgate e Deus  | Entrevistando Longe #3,siga ele no Instagram @arvores.justice.,2020-08-15T23:54:08Z,DzchgAFHe34,none
+167,"RV #26 Brasília, DF - Explorando a cidade e pontos turísticos!","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-10-05T01:29:55Z,u1EKERDfNZE,none
+168,Pirenópolis - Cachoeira das Araras e Renascer,,2020-10-01T04:15:29Z,7sWfy5T3u3k,none
+169,VamosLonge.tv - 24h de aventura,Powered by Restream https://restream.io Aqui temos ação e aventura 24 horas.,2023-03-23T14:19:41Z,ZXLHGP3qzlo,none
+170,Pirenópolis - Pico dos Pireneus - Brasília,,2020-10-04T16:57:38Z,IWm4H9JPLQU,none
+171,"RV #53 Hohenau, Paraguai - A fuga do Paraguai, inferno na oficina",em 26:09:2022.,2023-01-23T21:00:09Z,HgisbZZcvro,none
+172,América Latina #3 Chegada na Fronteira: Foz do Iguaçu,,2022-09-19T00:54:37Z,VHnz7gZrYbA,none
+173,América Latina #6 casino no Paraguai,,2022-09-24T05:58:14Z,PPjL17y8F-A,none
+174,"Rafael meu anjo, me ajudou a evitar prisão na Argentina",,2020-08-09T15:38:44Z,HYaHJT8BOeM,none
+175,Anna carioca viajante inspira mulheres  | Entrevistando Longe #5,,2020-08-17T03:16:16Z,uhEZs8NbUmE,none
+176,Transmissão ao vivo da minha #GoPro,,2023-06-25T22:09:12Z,hMC9nVLX1Jo,none
+177,"RV #45 Copacabana, RJ - A Noite Louca Carioca","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2022-05-17T18:29:36Z,ZLJwMNBA5Q8,none
+178,"De Salvador a Morro de São Paulo, de moto",vlog do vamos longe.,2022-04-30T22:16:09Z,ZEI4FsIUqpw,none
+179,"RV #43 Búzios, RJ - Estourou o motor e humilhado em restaurante chique!","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2022-05-02T14:34:34Z,42GxNq0AmbE,none
+180,Origem do Canal: De São Paulo a Curitiba,,2020-09-03T00:01:14Z,IPcCOU3YZuQ,none
+181,Dúvidas Viajadas: Raspa cabelo? peguei covid? Próximo destino? (São Miguel do Oeste),,2020-08-09T15:17:04Z,88B9QfVnzdA,none
+182,"Rolê de Moto em Goiânia, Tornado 250","quarta troca de hotel, churrasqueira pesada.",2020-09-24T05:21:21Z,Omw87x6wSuM,none
+183,De Cruz Alta a São Miguel do Oeste de Tornado 250,,2020-08-09T12:13:24Z,AL-uyOAXXKs,none
+184,Manos e Manos,,2020-06-14T11:25:30Z,QALMRwtoLqw,none
+185,"RV #58 São Fracisco do Sul, SC - Quase morri surfando... de novo",25:10:2022 #vamoslonge #nomadedigital #turismo.,2023-02-04T21:00:10Z,h58SNfgFjjo,none
+186,Especial Jalapão,Primeiro especial do vamos longe.,2020-10-25T07:45:03Z,pwlrWTwM_1I,none
+187,"Live - Recordando Cananéia, SP 2020",,2023-03-02T04:01:13Z,smUcfu69YfY,none
+188,Floripa 10 - Surf na Mole,,2020-06-28T05:48:25Z,igujPpuynSI,none
+189,Socorro! Carro quebrou no Paraguai e fomos abusados!,"Viajando pelo Paraguai com destino Argentina, pelo canal do YouTube Instagram @vamoslonge, indo a Buenos Aires, tivemos a ...",2022-09-24T15:49:42Z,nQAHNIG5XJY,none
+190,Cavalos falantes bruuurruruuuruu #standup #piada #divertido #engracado #zueira #shorts,,2022-09-14T21:07:15Z,pDEuNNiRPQI,none
+191,"RV #44 Arraial do Cabo RJ - Rolê insado com a galera do Hostel, barco, buggie e festas.","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2022-05-04T15:34:43Z,p-0BgkURdJ0,none
+192,Teste de conexão backup de 2 celular,"Para transmitir ao vivo pelo protocolo RTMP sem queda, usando 2 chips em 2 celulares com hotspot.",2022-06-03T23:33:21Z,CcBalqbAay0,none
+193,Campo Grande - Moto Tombou,"precisei subir de novo, com as imagens da oficina no fim Campo Grande não me deixou ir, veja no Relatos Viajados 19 porque ...",2020-09-08T18:48:38Z,wiaDnz7WtVY,none
+194,VamosLonge.tv - 24h de aventura,Powered by Restream https://restream.io Aqui temos ação e aventura 24 horas.,2023-03-23T14:19:41Z,ZXLHGP3qzlo,none
+195,Brasília - Pontos Turísticos,,2020-10-05T04:56:58Z,lxJSMoPxBuw,none
+196,"RV #27 Alto Paraíso de Goiás, GO - Caçando ETs e aventuras","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-10-25T05:32:33Z,-pcNUir-oUo,none
+197,plantando surf!!! #shorts,,2022-06-02T16:35:59Z,Y_X6AxyU4jw,none
+198,"RV #1 Itajaí, SC - Perrengues na Estrada  de Moto por Santa Catarina","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-06-13T03:37:29Z,C6pTkwmeUYk,none
+199,Adrenalive #0,,2022-05-30T14:43:25Z,-AylmJ7TEb0,none
+200,"RV #53 Hohenau, Paraguai - A fuga do Paraguai, inferno na oficina",em 26:09:2022.,2023-01-23T21:00:09Z,HgisbZZcvro,none
+201,"Japa da Band fala de sua carreira, Cataratas de Foz  | Entrevistando Longe #3",,2020-08-05T20:42:20Z,chMfyPnGHXA,none
+202,"Live - Recordando Itapetininga, SP 2020","Capítulo 2, chegada em Itapetininga e semente do vamoslonge #moto #vamoslonge #nomadedigital #turismo #viagemdemoto ...",2023-02-03T01:58:29Z,TFrwdATGBaA,none
+203,Origem do Canal: De São Paulo a Curitiba,,2020-09-03T00:01:14Z,IPcCOU3YZuQ,none
+204,"Live - Recordando São Paulo, SP 2019","minha vida em São Paulo antes de viajar pelo Brasil e América Latina, não tinha ideia que ia existir vamoslonge #vamoslonge ...",2023-01-25T02:53:16Z,pwlYurxevto,none
+205,Shorts previa do teaser viajando o Brasil e Uruguai de moto #motochileros #motomochil,previa do teaser da primeira temporada viajando o Brasil e Uruguai de moto #motochileros #motomochileros #motonomade ...,2023-03-16T18:55:24Z,k9LoYWzVpmg,none
+206,RV #5 Porto Alegre RS - Explorando Rio Grande do Sul,"Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-07-20T05:29:50Z,lp0FWi4HESc,none
+207,América Latina #5 Carro quebrou no Paraguai,,2022-09-24T00:34:55Z,oICr99_febA,none
+208,América Latina #4 Foz do Iguaçu,,2022-09-20T03:31:31Z,9N7QRwIJf9E,none
+209,"RV #20 Chapadão do Céu, GO - O que eu encontrei aqui?","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-09-11T03:36:11Z,gjYyWFSKRjk,none
+210,CWB imports e refúgio do montanhista,Presente do meu novo amigo Caio.,2020-06-06T02:54:08Z,zpVPY6TvlP4,none
+211,"Shorts Cananéia, SP",Cap #3 Cananéia São Paulo 23/05/2020 #CapCut #motochileros #motomochileros #motonomade #comosernomadadigital ...,2023-02-03T23:57:41Z,hIi45-71lA4,none
+212,Curitiba - Joinville,,2020-06-07T00:30:35Z,4gKCamzqcqg,none
+213,Adrenalive Pedal - História da minha bike 2/6,,2023-09-25T05:00:27Z,RzjKjCatMBY,none
+214,Transmissão ao vivo da minha #GoPro,,2023-07-12T21:12:08Z,K71WCTEVbU0,none
+215,"Standup Trip Sorocaba, SP - Aula Experimental na Oficina da Comédia 7/9",,2023-09-26T22:00:02Z,3lDc1B1C6m8,none
+216,"Standup Trip Sorocaba, SP - Aula Experimental na Oficina da Comédia 1/9",,2023-09-26T17:32:56Z,YGBLLxR0lgo,none
+217,"Standup Trip Sorocaba, SP - Aula Experimental na Oficina da Comédia 4/9",,2023-09-26T19:00:12Z,Pcf6R8p9_SY,none
+218,"Standup Trip Sorocaba, SP - Aula Experimental na Oficina da Comédia 6/9",,2023-09-26T21:00:35Z,rxSURGdox5Q,none
+219,Adrenalive - Mototerapia Ficou filé a reforma! 5/5,,2023-09-23T23:30:41Z,IAjuUpQtl4s,none
+220,Adrenalive Pedal - História da minha bike 4/6,,2023-09-25T07:00:09Z,OviFngbE37A,none
+221,rugido e não sei o que #zueira #piada #humor #divertido,,2022-09-14T21:07:03Z,T6ZwiDPDLNU,none
+222,Wesley sobre aquário de Balneário Camboriú | Entrevistando Longe #2,"Como Jacaré, Tartarugas e Peixes convivem.",2020-06-16T01:13:24Z,IuvexG7pJf8,none
+223,Shorts fato #shorts,fato.,2022-12-30T04:41:01Z,MQ9F-fG2JlU,none
+224,Shorts calma em 2024 ##FelizAnoNovo #piada #piada #piada,calma em 2024 ##FelizAnoNovo #piada #piada #piada.,2023-01-01T02:52:08Z,sGyaPnR6wgE,none
+225,"RV #19 Campo Grande, MS - Os Mistérios da cidade","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-09-07T14:55:06Z,rIw_RbVuT00,none
+226,América Latina #3 Chegada na Fronteira: Foz do Iguaçu,,2022-09-19T00:54:37Z,VHnz7gZrYbA,none
+227,"Hospedagem particular em Curitiba, chegando","Descobrindo Curitiba conhecendo as pessoas, primeiras impressões.",2020-06-02T17:18:11Z,qfvH-ZTByIg,none
+228,"RV #28 Jalapão, TO - A travessia de moto foi o maior sufoco da minha vida","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-10-20T18:52:44Z,ixMeTtTAziE,none
+229,Manos e Manos,,2020-06-14T11:25:30Z,QALMRwtoLqw,none
+230,"RV #24 Pirenópolis, GO - Pirando nas cachoeiras","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-09-21T15:59:21Z,HLX45bshHG0,none
+231,"RV #3 Florianópolis, SC - Histórias Malucas (atrasado)","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-07-09T06:00:19Z,jXwSssF0Zpw,none
+232,Lorete energiza Yasmin,Bombinhas SC.,2020-06-16T01:14:30Z,uVi_EbneDOU,none
+233,"RV #42 Rio das Ostras, RJ - A vida longe de Casa","Rv 42 minha segurança não tenho nada, banheiro privada casa, aceitar riscos, Motor, frio, carioca, banho gelado, tomada não ...",2022-04-16T21:21:59Z,P0gKyBDNxtw,none
+234,"Role em Bonito, Tornado 250",,2020-08-24T16:34:05Z,YE8GHzV796U,none
+235,"RV #23 Goiânia, GO - Descubra se Goiânia tem 7 mulheres pra cada homem?","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-09-18T05:54:48Z,EIjk32M1MMY,none
+236,Shorts provando a cerveja de baixa caloria michelobe ultra #piada #comédia #humor #michelob #fit,provando a cerveja de baixa caloria michelobe ultra #piada #comédia #humor #rir #michelob #fit.,2023-01-01T23:51:32Z,JhzKagqt77E,none
+237,Adrenalive Dutra - Aparecida até Taubaté de moto ao vivo,"Para transmitir ao vivo pelo protocolo RTMP sem queda, usando 2 chips em 2 celulares com hotspot.",2022-06-06T20:37:25Z,dyfUKJ8T-IM,none
+238,Deus colocou gasolina no meu tanque? Como?,,2020-08-13T22:15:33Z,qZHWrzBfEaE,none
+239,Lorete energiza Francisco,Bombinhas SC.,2020-06-16T01:14:29Z,sr-514zn2-E,none
+240,Adrenalive 1.1,,2022-05-30T15:18:43Z,T839WtThUWI,none
+241,Pirenópolis - Cachoeira das Araras e Renascer,,2020-10-01T04:15:29Z,7sWfy5T3u3k,none
+242,"RV #54 Buenos Aires, Argetina - Saída Atrapalhada do Paraguai, Tivemos que Pagar Propina",em 05:10:2022.,2023-01-25T21:00:09Z,gnO8ZJD5wDU,none
+243,"RV #44 Arraial do Cabo RJ - Rolê insado com a galera do Hostel, barco, buggie e festas.","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2022-05-04T15:34:43Z,p-0BgkURdJ0,none
+244,Shorts provando a cerveja de baixa caloria michelobe ultra #piada #comédia #humor #michelob #fit,provando a cerveja de baixa caloria michelobe ultra #piada #comédia #humor #rir #michelob #fit.,2023-01-01T23:51:32Z,JhzKagqt77E,none
+245,"RV #54.5 Bueinos Aires, Argetina - Cobertura das manifestações em apoio a Fernandez e Cristina","Perto do hotel onde estava fiz essa cobertura!!! Argetina saúda Lula, mandam um abraço para o carismático presidente Lula!",2022-10-05T22:03:58Z,5IoBS522E0A,none
+246,"RV #12 Bonito, MS - Conhecendo as belezas naturais da região","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-08-14T21:41:37Z,6Ic9ok5shbw,none
+247,"RV #58 São Fracisco do Sul, SC - Quase morri surfando... de novo",25:10:2022 #vamoslonge #nomadedigital #turismo.,2023-02-04T21:00:10Z,h58SNfgFjjo,none
+248,"RV #51 Foz do Iguaçu, PR - Partiu América Latina de Carro e já Perdi a Carteira","RV #51 Nova viagem para América Latina de carro, T02, Perdi a Carteira chegando em Foz 19/09/2022.",2022-11-12T03:00:10Z,TY9WLweB4wo,none
+249,Adrenalive Ubatuba 4 - 2/6/22 20:00,,2022-06-02T23:22:07Z,bFOzUmxbJTc,none
+250,Adrenalive no ar - role de moto ao vivo!,Venha comigo na moto.,2022-06-10T17:14:03Z,Ys5oPxmsO7s,none
+251,Shorts passando a virada sozinho #vibedodia #FelizAnoNovo,passando a virada sozinho #vibedodia #FelizAnoNovo.,2023-01-01T01:50:58Z,ESKt2WFrnZk,none
+252,Adrenalive 1.3,,2022-05-31T09:27:05Z,uOdImdqL0Y8,none
+253,Anna carioca viajante inspira mulheres  | Entrevistando Longe #5,,2020-08-17T03:16:16Z,uhEZs8NbUmE,none
+254,"RV #17 Campo Grande, MS - As loucuras bêbado na cidade fechada na pandemia",,2020-09-01T17:42:36Z,JJm36SeH4O0,none
+255,"RV #46 Copacana, Rio - Troquei soco com um bêbado no bar e me diverti muito",RV 46 - Ipanema RJ RV soco na cara roubaram minha mochila e devolveram vôo asa delta Encontrei 5 pessoas que faz ...,2022-05-17T06:26:06Z,N_OUCyUsj7w,none
+256,"RV #30 Chapada Diamantina, BA - Fui Barrado, mas que falta de respeito!","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-10-26T03:37:21Z,6vOw5sRXry4,none
+257,Shorts muito chocolate esse ano #humor #comédia #piada,muito chocolate esse ano #humor #comédia #piada.,2023-01-01T01:50:26Z,_NCLVMdZcpI,none
+258,Teste de conexão backup de 2 celular,"Para transmitir ao vivo pelo protocolo RTMP sem queda, usando 2 chips em 2 celulares com hotspot.",2022-06-03T23:33:21Z,CcBalqbAay0,none
+259,RV #41 Jacaraípe ES - Visitei a linda Lagoa Azul,"Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2022-04-16T21:11:53Z,DEzzExchlww,none
+260,"Rolê de Moto em Goiânia, Tornado 250","quarta troca de hotel, churrasqueira pesada.",2020-09-24T05:21:21Z,Omw87x6wSuM,none
+261,"Francisco Investiga - O Mistério do Parque Redenção, em Porto Alegre","Airton Francisco, bancário aposentado, explicou, ao final do vídeo o motivo, porém a câmera me traiu e bateria acabou,assim deu ...",2020-07-07T03:09:07Z,ZxKyCapwPMo,none
+262,Shorts um bebê é importante? #reflexao #pensamentos #shorts,um bebê é importante? #reflexao #pensamentos.,2022-12-30T17:20:18Z,BZroQUwsGuI,none
+263,"RV #55 Buenos Aires, Argentina - O misterioso furto do relógio",Live especial 07:10:2022.,2023-01-29T21:00:09Z,9sH5xw4bZ8M,none
+264,Raul Sá conta história da Colgate e Deus  | Entrevistando Longe #3,siga ele no Instagram @arvores.justice.,2020-08-15T23:54:08Z,DzchgAFHe34,none
+265,"RV #48 Ubatuba, SP - Um dia de frio e bebedeira em Petrópolis","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2022-06-02T09:20:49Z,2bNumNtm_M8,none
+266,Transmissão ao vivo da minha #GoPro,,2023-06-25T23:10:11Z,lV8ANCjpe5I,none
+267,"Live Recordando Ubatuba, SP 2019 - Primeira viagem de moto, de Itapetininga para Ubatuba",,2023-01-02T02:00:09Z,mqnqGwZIEMc,none
+268,"De Salvador a Morro de São Paulo, de moto",vlog do vamos longe.,2022-04-30T22:16:09Z,ZEI4FsIUqpw,none
+269,"Extra - Minutos antes de quase ser preso na Argentina, fuga",,2020-08-09T15:36:21Z,rT97kTb33Go,none
+270,"RV #9 São Miguel do Oeste, SC - Tinder da Frustração (Sorte na Estrada / Azar no Amor)","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-08-10T18:36:43Z,Fgq4QR3PEc4,none
+271,"RV #32 Salvador, BA - Turismo, o que eu conheci aqui?","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-11-02T23:50:43Z,gIS-vprTmgk,none
+272,"RV #13 Bonito, MS - Me mandaram arranjar um emprego!","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-08-17T15:17:17Z,iyTrEmRlmMY,none
+273,Vamoslonge visita Escadaria Selarón e conta um pouco da história #shorts,,2022-06-01T14:23:59Z,zxSF8hXWISY,none
+274,"RV #22 Goiânia, GO - Ressacas e perrengues","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-09-14T02:49:47Z,y8a5OpzbbYI,none
+275,Goiânia - Bares e Vida Noturna,,2020-09-24T06:28:04Z,5hIMvAgNH44,none
+276,"Adrenalive - Mototerapia Itapetininga, moto e conversa",,2023-08-01T20:46:22Z,yidb8fn0-Ts,none
+277,"RV #47 Santa Teresa, RJ - O Rio secreto e boêmio da Lapa",Mar de gente bêbada Onde voltei a beber em 2019 após 5 anos e 8 meses pessoas gostam de se gabar Escadaria selarion ...,2022-05-25T12:20:30Z,IYho6ZvttSE,none
+278,Joinville - São Francisco do Sul - SC,SFS. Homenagem a Joyce.,2020-06-08T15:56:25Z,A4qEegeE1EE,none
+279,Live with Restream,Powered by Restream https://restream.io/ Test.,2022-01-22T15:12:09Z,wbGDYj_xkkY,none
+280,"RV #33 Morro de São Paulo, BA - Uma semana de loucura","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-11-12T20:17:41Z,aqdgcT_SWxU,none
+281,A ressaca não perdoa,2 de junho de 2022.,2022-06-02T21:28:52Z,2w99_2HA_rg,none
+282,Qual sua desculpa para não fazer esportes?,2 de junho de 2022.,2022-06-02T21:43:27Z,qMs_26a3ta4,none
+283,Extra - Explicando quase preso na Argentina,,2020-08-16T18:54:19Z,iHXqH_74wDY,none
+284,"Cobertura dos protesto de Curitiba, praça do centro",Estréia do canal de cobertura jornalística. Dia que fui desligado do Tanamesa.,2020-06-02T02:08:47Z,iAvH6YUMQl0,none
+285,Live with Restream,Test.,2022-06-03T22:35:50Z,RIWEzRCbmpY,none
+286,Transmissão ao vivo da minha #GoPro,,2023-06-25T22:09:12Z,hMC9nVLX1Jo,none
+287,"RV #11 Dourados, MS - Parado pela PF na chegada em Mato Grosso do Sul","Série de vídeos onde eu relato os perrengues, histórias engraçadas, dificuldades e tudo que um viajante viajado passa de moto ...",2020-08-14T20:09:22Z,6Ss8momHXpE,none
+288,"RV #52 Encarnación, Paraguai - Motor Fundiu no Paraguai e noite no Cassino em 22/09/2022",,2022-12-26T12:00:10Z,sE77uA3lwcM,none
+289,"Campo Grande - Mercadão, Feira Indígena, Shopping do Ipês",,2020-09-04T16:26:08Z,EI1JQH-pxFo,none
+290,"Campo Grande - Lago do Amor, Feira Central, Monumentos",,2020-08-29T02:49:03Z,oF_fIL7WS04,none
+291,Campo Grande - Bares e Vida Noturna,Crajubar e Galos Festas e Conveniência. Assista Relatos Viajados 19 Campo Grande onde conto a história Tirado pelo dono do ...,2020-09-09T03:27:15Z,UL_QiTehfP4,none
+292,"RV #34 Itacaré, BA - Por que eu parei nessa cidade?","Chegada em Itacaré, vídeo postado com 10 meses de atraso! Montei o Coworking Hostel em Itacaré, com base na minha ...",2021-08-03T02:27:25Z,d_nXPcqZrbg,none
+293,"RV #34 Itacaré, BA - Por que eu parei nessa cidade?","Chegada em Itacaré, vídeo postado com 10 meses de atraso! Montei o Coworking Hostel em Itacaré, com base na minha ...",2021-08-03T02:27:25Z,d_nXPcqZrbg,none
+294,Pirenópolis - Cachoeira do Abade,,2020-10-04T14:30:42Z,V_nB2Gn9IzY,none
+295,Cachoeira das Loquinhas -Alto Paraíso de Goiás,,2020-10-18T04:46:30Z,t9jg9J_2gUg,none
+296,"De Mateiros a Barreiras, chegada na Bahia",,2022-04-14T16:46:46Z,ehloWxKaKc8,none
+297,"RV #16 Bonito, MS - O que aconteceu depois que tomei muita vodka?",,2020-08-31T14:36:25Z,jA4nfJH3PRA,none
